@@ -1,8 +1,8 @@
-## whitepaper
+## Whitepaper
 
 https://whitepaper.tongifter.xyz
 
-## app
+## App
 
 https://t.me/tokengiftbot/TokenGift
 
